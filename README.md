@@ -1,16 +1,15 @@
-<h1 align="center"> </h1>
-[Badge em Desenvolvimento]([http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://img.shields.io/badge/Dev-grayson-blue))
-<!--
-**graysoncorrea/graysoncorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![]()
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grayson-correa-89ab23240/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graysoncorrea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<code><img height="50" alt="" src=""></code>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/graysoncorrea?style=social)
+
