@@ -6,7 +6,3 @@ Olá este e meu gith
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graysoncorrea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-##
-![GitHub Org's stars](https://img.shields.io/github/stars/graysoncorrea?style=social)
